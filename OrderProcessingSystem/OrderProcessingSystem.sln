@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingSystem", "OrderProcessingSystem.csproj", "{D15DABE4-338F-4136-8D70-B157F0568712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingSystem.UnitTest", "..\OrderProcessingSystem.UnitTest\OrderProcessingSystem.UnitTest.csproj", "{98845E84-DCDB-4D9E-B3C7-E1F1E61FEA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15DABE4-338F-4136-8D70-B157F0568712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15DABE4-338F-4136-8D70-B157F0568712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15DABE4-338F-4136-8D70-B157F0568712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15DABE4-338F-4136-8D70-B157F0568712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98845E84-DCDB-4D9E-B3C7-E1F1E61FEA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98845E84-DCDB-4D9E-B3C7-E1F1E61FEA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98845E84-DCDB-4D9E-B3C7-E1F1E61FEA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98845E84-DCDB-4D9E-B3C7-E1F1E61FEA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
