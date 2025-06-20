@@ -1,0 +1,15 @@
+# Ignore Visual Studio user-specific and system folders
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+TestResults/
+.vs/
+*.log
+*.db
+*.vscode/
+*.coverage
